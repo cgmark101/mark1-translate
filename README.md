@@ -1,6 +1,6 @@
 # Mark1 Translator
 
-This is a small tool to translate from Google Translate, base on mtranslate by mouuff [mouuff](https://github.com/mouuff)
+This is a small tool to translate from Google Translate, base on mtranslate by [mouuff](https://github.com/mouuff)
 
 It was reduce to the minimum expression and converted to use requests
 
