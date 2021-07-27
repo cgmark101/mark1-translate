@@ -12,7 +12,7 @@ It is highly recommended to use it inside a virtual enviroment for your project,
 ```bash
 $ pip3 install mark1_translate
 ```
-Or
+Or in a virtual enviroment
 ```bash
 $ virtualenv .venv
 $ source .venv/bin/activate

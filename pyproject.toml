@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mark1-translate"
-version = "0.1.5"
+version = "0.1.6"
 description = "Google Translate based api"
 authors = ["cgmark101 <cgmark101@gmail.com>"]
 readme = "README.md"
