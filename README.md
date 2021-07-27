@@ -5,14 +5,14 @@ This is a small tool to translate from Google Translate, base on mtranslate by [
 It was reduce to the minimum expression and converted to use requests
 
 # Install
-It is highly recommended to use it inside a virtual enviroment for your project, but can be install globally
-
 Note: this instructions are made for ubuntu
+
+It is highly recommended to use it inside a virtual enviroment for your project, but can be install globally with
 
 ```bash
 $ pip3 install mark1_translate
 ```
-
+Or
 ```bash
 $ virtualenv .venv
 $ source .venv/bin/activate
